@@ -4,6 +4,6 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     assignees:
-      - "Robert-96"
+      - "brianmwadime"
     schedule:
       interval: "weekly"
