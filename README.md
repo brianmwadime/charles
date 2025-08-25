@@ -8,7 +8,7 @@ Follow these steps to use the PAC file:
 
 1. Update the `proxy.pac` file according to your requirements.
 2. Commit and push the changes.
-3. Configure your mobile device to use the PAC file from the following URL: [https://brianmwadime.github.io/charles-pac-file/proxy.pac](https://brianmwadime.github.io/charles-pac-file/proxy.pac).
+3. Configure your mobile device to use the PAC file from the following URL: [https://brianmwadime.github.io/charles/proxy.pac](https://brianmwadime.github.io/charles/proxy.pac).
 
 ## License
 
