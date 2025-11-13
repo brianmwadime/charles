@@ -2,6 +2,7 @@ function FindProxyForURL(url, host) {
     if (shExpMatch(host, "*.awesa-vereins.tv") ||
         shExpMatch(host, "*.delishandnutri.odoo.mp.ke") ||
         shExpMatch(host, "app.fussballgolf-humboldtsee.de") ||
+        shExpMatch(host, "traumez.leelaq.com") ||
         shExpMatch(host, "staging.api.clean-it.workstellar.com")) {
         // Test servers.
         return "PROXY 192.168.100.136:8888; DIRECT";
